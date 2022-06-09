@@ -92,7 +92,7 @@ export default function Home() {
           <ul className={styles.centerContent}>
             <li>ある程度の痛みに耐える</li>
             <li>冗談を言うこと</li>
-            <li>仰向けから を使わずに起き上がる</li>
+            <li>仰向けから手を使わずに起き上がる</li>
             <li>採譜</li>
             <li>早起き</li>
             <li>キノピオ</li>
